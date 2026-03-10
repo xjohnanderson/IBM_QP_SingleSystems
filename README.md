@@ -55,9 +55,6 @@ The following histogram illustrates the measurement outcomes after 4,000 shots o
 <img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/03f23d2e-abf9-41ed-9a88-681e9e0f882f" />
 
 
-## Technical Notes
-
-This project utilizes the `qiskit.quantum_info` module, a powerful component of the IBM Qiskit ecosystem, for mathematical rigor. Ensure your environment supports Jupyter if you intend to use the `display()` functions for rendered LaTeX output.
 
 ```
 
